@@ -1,7 +1,7 @@
-## Interface: 60000
+## Interface: 60100
 ## Title: tipStats
 ## Notes: Showing ItemValue in Tooltip based on StatValues
 ## Author: vinylger
-## Version: 14.12.26.4
+## Version: 15.04.23.1
 
 tipStats.lua
